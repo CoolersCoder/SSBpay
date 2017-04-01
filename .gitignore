@@ -12,5 +12,9 @@
 hs_err_pid*
 /target/
 .classpath
-.setting 
+.settings
 .project
+.springBeans
+SSBpay.iml
+.idea/
+.gitignore
